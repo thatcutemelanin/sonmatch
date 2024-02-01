@@ -1,0 +1,114 @@
+ul, li {
+    display: inline-block;
+    padding-right: 5px;
+    
+}
+
+nav {
+    color: wheat;
+    background-color: magenta;
+    margin-top: -10px;
+    width: 120%;
+    margin-left: -10px;
+}
+li {
+    margin-left: 20px;
+    font-size: 20px;
+}
+ul {
+    margin-left: 500px;
+}
+.logo {
+    margin-left: 10px;
+    font-size: 30px;
+    font-family: cursive;
+    font-style: italic;
+}
+
+.banner{
+    background-image: url(/banner.jpg);
+background-size: cover;
+height: 90vh;
+
+background-repeat: no-repeat;
+}
+.bannerText {
+    color: wheat;
+text-align: center;
+padding-top: 90px;
+font-size: 40px;
+
+}
+.banText{
+    font-weight: bolder;
+font-size: medium;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 70px;
+margin-bottom: -30px;
+}
+.banWord{
+
+}
+
+button{
+    padding: 13px;
+font-weight: 300;
+margin-top: 10px;
+border: none;
+background-color: magenta;
+font-size: 20px;
+border-radius: 10px;
+color: wheat;
+}
+button:hover {
+    background-color: wheat;
+    color: black;
+}
+
+.abt,
+.serve,
+.contact {
+    font-size: 40px;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-shadow: 3px 1px magenta;
+}
+p {
+    font-size: 25px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.about {
+    text-align: left;
+}
+
+
+.forms {
+    size: 300px;
+    width: 1000;
+    margin-left: 100px;
+}
+label,
+input,
+textarea {
+    width: 200%;
+    border-radius: 10px;
+}
+label {
+    font-size: 25px;
+}
+input {
+    padding: 10px;
+}
+footer {
+    color: wheat;
+    background-color: magenta;
+    margin-top: -10px;
+    width: 120%;
+    margin-left: -10px;
+}
+.table{
+    margin-left: 150px;
+}
+form {
+    margin-left: 50px;
+}
